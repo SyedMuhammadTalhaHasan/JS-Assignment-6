@@ -1,0 +1,9 @@
+.btn {
+    margin: 10px;
+}
+.maindiv {
+    height: 50vh;
+    width: 50%;
+    background-color: blue;
+    margin-top: 60px;
+}
